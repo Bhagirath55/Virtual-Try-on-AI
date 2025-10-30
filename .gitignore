@@ -210,5 +210,4 @@ checkpoints/TOM/
 tensorboard/
 all.txt
 my.py
-run_inference.py
 data/
