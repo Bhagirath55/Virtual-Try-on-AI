@@ -207,3 +207,8 @@ marimo/_lsp/
 __marimo__/
 checkpoints/GMM/
 checkpoints/TOM/
+tensorboard/
+all.txt
+my.py
+run_inference.py
+data/
